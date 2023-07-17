@@ -1,4 +1,4 @@
-# CS3A_Portfolio_SFML
+# SFML Portfolio
 The SFML Portfolio is a capstone project covering all topics learned during the duration of CS3A course with the utilization of SFML (A graphics library). The following are topics that are incorporated in this project:
 
 - Object Oriented programming
