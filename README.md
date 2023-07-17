@@ -8,3 +8,4 @@ The SFML Portfolio is a capstone project covering all topics learned during the 
 - SFML Graphics
 
 ![Summary](https://github.com/shermanyan/CS3A_Portfolio_SFML/assets/14947899/70fa13b4-7b2c-4dcb-a275-90ed933cc86e)
+[Poster](https://github.com/shermanyan/CS3A_Portfolio_SFML/files/12072036/Pi.Day.Poster.pdf)
